@@ -1,5 +1,5 @@
 const TopPlay = () => (
-  <div>TopPlay</div>
+  <div className="text-white">TopPlay</div>
 );
 
 export default TopPlay;
